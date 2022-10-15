@@ -1,1 +1,1 @@
-# 141bhomework
+# UC Davis STA 141B Homework (2022 Fall)
